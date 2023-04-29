@@ -1,4 +1,4 @@
 # Laporan Project UTS
 ## Ini adalah Repository Laporan Project UTS Pengembangan perangkat lunak tangkas dengan anggota tim : 
 ### - Farrell Rio Fa – 211111610 (R10F)
-### - ERIN GUNAWAN - 211110101 (eringnwn)
+### - Erin Gunawan - 211110101 (eringnwn)
